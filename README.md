@@ -13,14 +13,17 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 **IA & Modelos**  
 `OpenAI GPT-4o` · `Groq` · `Claude` · `Whisper` · `Prompt Engineering`
 
+**Desarrollo SaaS**  
+`Next.js 15` · `TypeScript` · `Supabase` · `Stripe` · `Clerk`
+
 **Infraestructura**  
-`Docker` · `EasyPanel` · `Hostinger VPS` · `Supabase` · `Redis`
+`Docker` · `EasyPanel` · `Hostinger VPS` · `Redis`
 
 **Integraciones**  
 `REST APIs` · `Webhooks` · `Google Sheets` · `Calendly` · `Evolution API v2`
 
 **Lenguajes**  
-`Python (básico)` · `JSON` · `YAML`
+`Python (básico)` · `TypeScript` · `JSON` · `YAML`
 
 ---
 
@@ -29,7 +32,13 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 ### 🤖 [WhatsApp AI Agent with n8n](https://github.com/Noelia-Geor/whatsapp-ai-agent-n8n)
 Agente conversacional para WhatsApp construido con n8n + Evolution API + Groq/OpenAI.  
 Incluye gestión de memoria, clasificación de leads, recordatorios automáticos e informes semanales.  
+Demo funcional disponible → 684 776 461  
 Stack: `n8n` · `Evolution API` · `Groq` · `Google Sheets` · `Docker`
+
+### 🧠 [ZYRA — SaaS Workspace](https://github.com/Noelia-Geor/zyra)
+Workspace todo-en-uno para freelancers españoles: clientes, facturas, finanzas, tareas y bienestar.  
+IA integrada con Claude Haiku + OCR de recibos + suscripciones con Stripe.  
+Stack: `Next.js 15` · `TypeScript` · `Supabase` · `Stripe` · `Clerk` · `Claude`
 
 ### 🎙️ [Voice Agent with VAPI + n8n](https://github.com/Noelia-Geor/voice-agent-vapi-n8n)
 Agente de voz funcional integrado con n8n para automatización de llamadas entrantes.  
@@ -48,7 +57,7 @@ Con documentación de la lógica y criterios de diseño detrás de cada prompt.
 ## 💼 Sobre mí
 
 Especialista en automatización con IA con background en gestión industrial y control de calidad.  
-Combino criterio operativo real con implementación técnica de agentes y sistemas de automatización.
+Combino criterio operativo real con implementación técnica de agentes, sistemas de automatización y productos SaaS.
 
 Actualmente disponible para **roles remotos** en AI automation, agentes IA y automatización de procesos empresariales.
 
