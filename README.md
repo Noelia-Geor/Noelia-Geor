@@ -8,13 +8,13 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 ## 🛠️ Stack
 
 **Automatización & Agentes**  
-`n8n` · `Evolution API` · `WhatsApp Business API` · `VAPI`
+`n8n` · `Evolution API` · `WhatsApp` · `VAPI`
 
 **IA & Modelos**  
 `OpenAI GPT-4o` · `Groq` · `Claude` · `Whisper` · `Prompt Engineering`
 
 **Desarrollo SaaS**  
-`Next.js 15` · `TypeScript` · `Supabase` · `Stripe` · `Clerk`
+`Next.js` · `React` · `TypeScript` · `Supabase` · `Tailwind` · `Stripe`
 
 **Infraestructura**  
 `Docker` · `EasyPanel` · `Hostinger VPS`
@@ -35,10 +35,10 @@ Incluye gestión de memoria, clasificación de leads, recordatorios automáticos
 Demo funcional disponible → 684 776 461  
 Stack: `n8n` · `Evolution API` · `Groq` · `Google Sheets` · `Docker`
 
-### 🧠 [ZYRA — SaaS Workspace](https://github.com/Noelia-Geor/zyra)
-Workspace todo-en-uno para freelancers españoles: clientes, facturas, finanzas, tareas y bienestar.  
-IA integrada con Claude Haiku + OCR de recibos + suscripciones con Stripe.  
-Stack: `Next.js 15` · `TypeScript` · `Supabase` · `Stripe` · `Clerk` · `Claude`
+### 🌙 [GeorLuna — Workspace para autónomos](https://georluna.com)
+Producto SaaS en producción: clientes, tareas, agenda, correo (Gmail y Outlook), propuestas y facturación en un solo sitio, con una IA que sugiere y nunca decide por la persona.  
+Seguridad por fila (RLS) en la base de datos, copias de seguridad automáticas diarias y app en español e inglés.  
+Stack: `Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `Tailwind` · `OpenAI` · `Claude` · `Resend`
 
 ---
 
