@@ -8,7 +8,7 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 ## 🛠️ Stack
 
 **Automatización & Agentes**  
-`n8n` · `Evolution API` · `WhatsApp Business API` · `VAPI` · `LangChain`
+`n8n` · `Evolution API` · `WhatsApp Business API` · `VAPI`
 
 **IA & Modelos**  
 `OpenAI GPT-4o` · `Groq` · `Claude` · `Whisper` · `Prompt Engineering`
@@ -17,7 +17,7 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 `Next.js 15` · `TypeScript` · `Supabase` · `Stripe` · `Clerk`
 
 **Infraestructura**  
-`Docker` · `EasyPanel` · `Hostinger VPS` · `Redis`
+`Docker` · `EasyPanel` · `Hostinger VPS`
 
 **Integraciones**  
 `REST APIs` · `Webhooks` · `Google Sheets` · `Calendly` · `Evolution API v2`
@@ -39,18 +39,6 @@ Stack: `n8n` · `Evolution API` · `Groq` · `Google Sheets` · `Docker`
 Workspace todo-en-uno para freelancers españoles: clientes, facturas, finanzas, tareas y bienestar.  
 IA integrada con Claude Haiku + OCR de recibos + suscripciones con Stripe.  
 Stack: `Next.js 15` · `TypeScript` · `Supabase` · `Stripe` · `Clerk` · `Claude`
-
-### 🎙️ [Voice Agent with VAPI + n8n](https://github.com/Noelia-Geor/voice-agent-vapi-n8n)
-Agente de voz funcional integrado con n8n para automatización de llamadas entrantes.  
-Stack: `VAPI` · `OpenAI` · `n8n` · `Webhooks`
-
-### 📋 [n8n Automation Templates](https://github.com/Noelia-Geor/n8n-automation-templates)
-Colección de workflows de automatización reutilizables: seguimiento de leads, recordatorios de citas, informes automáticos.  
-Stack: `n8n` · `Google Sheets` · `OpenAI` · `Webhooks`
-
-### 💬 [AI Prompt Engineering Collection](https://github.com/Noelia-Geor/ai-prompt-engineering)
-System prompts reales para agentes de negocio: WhatsApp, voz, clasificación de clientes, FAQ.  
-Con documentación de la lógica y criterios de diseño detrás de cada prompt.
 
 ---
 
