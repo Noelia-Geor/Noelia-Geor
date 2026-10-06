@@ -29,7 +29,7 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 
 ## 🚀 Proyectos destacados
 
-### 🤖 [WhatsApp AI Agent with n8n](https://github.com/Noelia-Geor/whatsapp-ai-agent-n8n)
+### 🤖 [WhatsApp AI Agent with n8n](https://github.com/Noelia-Geor/WHATSAPP-AI-AGENT-N8N)
 Agente conversacional para WhatsApp construido con n8n + Evolution API + OpenAI.  
 Incluye gestión de memoria, clasificación de leads, recordatorios automáticos e informes semanales.  
 Demo funcional disponible → 684 776 461  
