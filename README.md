@@ -8,10 +8,10 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 ## 🛠️ Stack
 
 **Automatización & Agentes**  
-`n8n` · `Evolution API` · `WhatsApp` · `VAPI`
+`n8n` · `Evolution API` · `WhatsApp`
 
 **IA & Modelos**  
-`OpenAI GPT-4o` · `Groq` · `Claude` · `Whisper` · `Prompt Engineering`
+`OpenAI GPT-4o` · `Claude` · `Whisper` · `Prompt Engineering`
 
 **Desarrollo SaaS**  
 `Next.js` · `React` · `TypeScript` · `Supabase` · `Tailwind` · `Stripe`
@@ -30,10 +30,10 @@ Fundadora técnica de [GeorLabs](https://georlabs.com) — agencia de automatiza
 ## 🚀 Proyectos destacados
 
 ### 🤖 [WhatsApp AI Agent with n8n](https://github.com/Noelia-Geor/whatsapp-ai-agent-n8n)
-Agente conversacional para WhatsApp construido con n8n + Evolution API + Groq/OpenAI.  
+Agente conversacional para WhatsApp construido con n8n + Evolution API + OpenAI.  
 Incluye gestión de memoria, clasificación de leads, recordatorios automáticos e informes semanales.  
 Demo funcional disponible → 684 776 461  
-Stack: `n8n` · `Evolution API` · `Groq` · `Google Sheets` · `Docker`
+Stack: `n8n` · `Evolution API` · `OpenAI` · `Google Sheets` · `Docker`
 
 ### 🌙 [GeorLuna — Workspace para autónomos](https://georluna.com)
 Producto SaaS en producción: clientes, tareas, agenda, correo (Gmail y Outlook), propuestas y facturación en un solo sitio, con una IA que sugiere y nunca decide por la persona.  
