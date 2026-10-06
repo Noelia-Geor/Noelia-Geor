@@ -57,7 +57,7 @@ Actualmente disponible para **roles remotos** en AI automation, agentes IA y aut
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noelia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/noeliasotovega)
 [![GeorLabs](https://img.shields.io/badge/Web-georlabs.com-black?style=flat&logo=google-chrome)](https://georlabs.com)
-[![Email](https://img.shields.io/badge/Email-contacto-red?style=flat&logo=gmail)](mailto:sotoveganoelia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contacto-red?style=flat&logo=gmail)](mailto:noeliasotovega95@gmail.com)
 
 ---
 
